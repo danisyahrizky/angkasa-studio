@@ -8,7 +8,7 @@ import asciiVideo from './assets/ascii-animation.mp4';
 import projectBG from './assets/project-bg.png';
 import allTheMemories from './assets/allTheMemories.png';
 import angkasaStudio from './assets/angkasa-studio01.png';
-import chaseIt from './assets/chaseIt.png';
+import chaseIt from './assets/chaseIT.png';
 import petrichor from './assets/petrichor.jpg.png';
 import soerabadja from './assets/soerabadja.png';
 import logo from './assets/logo-angkasa01(huruf).png';
