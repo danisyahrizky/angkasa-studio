@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-angkasa-red: #8b2d2d;
+  /* Menambahkan font consolas ke sistem tailwind */
+  --font-consolas: "Consolas", "Monaco", "Courier New", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Mengatur agar seluruh body menggunakan Consolas secara default */
+body {
+  font-family: var(--font-consolas);
+}
