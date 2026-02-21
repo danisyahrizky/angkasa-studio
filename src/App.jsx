@@ -227,7 +227,7 @@ function App() {
           </div>
 
           <div className="flex items-center gap-4">
-            <button className="block border border-white/40 px-4 md:px-5 py-1.5 rounded-full text-[12px] md:text-[15px] uppercase tracking-tighter hover:bg-white hover:text-black transition-all">
+            <button className="hidden sm:block border border-white/40 px-4 md:px-5 py-1.5 rounded-full text-[12px] md:text-[15px] uppercase tracking-tighter hover:bg-white hover:text-black transition-all">
               <a 
                 href="https://wa.me/62895396017225"
                 target="_blank" 
