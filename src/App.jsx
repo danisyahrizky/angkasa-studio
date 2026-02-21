@@ -253,7 +253,13 @@ function App() {
           <a href="/#about" onClick={() => setNavOpen(false)} className="text-3xl uppercase tracking-widest text-white hover:text-red-500">About</a>
           <a href="/#project" onClick={() => setNavOpen(false)} className="text-3xl uppercase tracking-widest text-white hover:text-red-500">Project</a>
           <button className="mt-8 border border-red-600 text-red-600 px-8 py-3 rounded-full uppercase tracking-tighter">
-            Make it Happen
+             <a 
+                href="https://wa.me/62895396017225"
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Make it Happen
+              </a>
           </button>
         </div>
 
